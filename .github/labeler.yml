@@ -1,0 +1,5 @@
+# Add 'label1' to any changes within 'example' folder or any subfolders
+github: .github/**/*
+test: test/**/*
+docs: docs/**/*
+templates: src/templates/**/*
